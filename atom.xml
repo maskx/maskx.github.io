@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>maskx</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://maskx.github.io/"/>
+  <updated>2019-03-12T07:43:38.142Z</updated>
+  <id>http://maskx.github.io/</id>
+  
+  <author>
+    <name>maskx</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ASP.NET Core OData Swagger Guide</title>
+    <link href="http://maskx.github.io/2019/03/12/ASP-NET-Core-OData-Swagger-Guide/"/>
+    <id>http://maskx.github.io/2019/03/12/ASP-NET-Core-OData-Swagger-Guide/</id>
+    <published>2019-03-12T07:38:19.000Z</published>
+    <updated>2019-03-12T07:43:38.142Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Get-started&quot;&gt;&lt;a href=&quot;#Get-started&quot; class=&quot;headerlink&quot; title=&quot;Get started&quot;&gt;&lt;/a&gt;Get started&lt;/h1&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
